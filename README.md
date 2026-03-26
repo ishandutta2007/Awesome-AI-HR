@@ -106,5 +106,10 @@ Star the repo if you find it useful!
 
 ---
 
+## ✨ Star History
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-AI-HR&type=date&legend=bottom-right)](https://www.star-history.com/#ishandutta2007/Awesome-AI-HR&type=date&legend=bottom-right)
+
 **Made for HR professionals, compliance officers, and developers.**  
 Let's make HR compliance faster, smarter, and fully controllable.
