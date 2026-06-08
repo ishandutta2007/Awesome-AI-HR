@@ -105,6 +105,11 @@ Tools listed here emphasize **agentic capabilities** (multi-step reasoning, docu
 
 ---
 
+### 🔧 MCP Tools & Infrastructure
+
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring MCP server for autonomous AI agents on Solana. Provides `score_agent(wallet)` and `preflight_check(wallet)` (free) to verify recruiting or HR automation agent identity before candidate data exchange, and `get_trust_receipt(wallet)` for signed audit trails via x402 micropayment. Addresses agent impersonation risk in HR process automation. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`.
+
+---
 ## 🤝 How to Contribute
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
