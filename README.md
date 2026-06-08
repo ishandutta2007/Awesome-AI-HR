@@ -6,6 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-HR/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)
 
 > **A curated list of SaaS products and open-source GitHub projects focused on AI Agents for HR Compliance.** 🛡️💼
 
@@ -115,6 +116,7 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)
 ---
 
 ## ⚠️ Disclaimer
