@@ -117,7 +117,8 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
 ---
 
 ## ⚠️ Disclaimer
