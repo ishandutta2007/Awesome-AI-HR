@@ -1,6 +1,6 @@
 # 🤖 Awesome AI HR Compliance Agents Ecosystem 🚀
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-HR?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-HR/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-HR?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-HR/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
