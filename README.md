@@ -1,5 +1,7 @@
 # 🤖 Awesome AI HR Compliance Agents Ecosystem 🚀
 
+<div align="center">
+
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-HR?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-HR/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-HR?style=flat-square)](https://github.com/ishandutta2007/Awesome-AI-HR/network/members)
@@ -11,6 +13,7 @@
 
 > **A curated list of SaaS products and open-source GitHub projects focused on AI Agents for HR Compliance.** 🛡️💼
 
+</div>
 ---
 
 ## 🌟 Overview
