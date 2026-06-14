@@ -40,15 +40,15 @@ Tools listed here emphasize **agentic capabilities** (multi-step reasoning, docu
 
 ## 🏢 SaaS Products
 
-| Product | Description | Pricing | Free Tier Limits |
-| :--- | :--- | :--- | :--- |
-| **[Auditocity](https://auditocity.com/)** 🔍 | AI-powered HR compliance auditing platform with 14,000+ questions. Automated findings & risk reports. | Custom Annual | **Free Trial available** for self-audits. |
-| **[SafetyCulture](https://safetyculture.com/)** 👷 | Comprehensive HR compliance agent for audits, inspections, training, and real-time reporting. | $24–$29 /user/mo | **Free Plan:** Up to 10 members, 5 templates. |
-| **[Rippling](https://www.rippling.com/)** 🌊 | Unified HR/IT platform with agents for policy enforcement & multi-state labor law alerts. | Starts at $8 /user/mo | **No free tier.** Demo available. |
-| **[Zenefits](https://www.zenefits.com/)** 🍃 | All-in-one HRIS with strong AI compliance tools for payroll, benefits, and policy audits. | Starts at $8 /user/mo | **No free tier.** |
-| **[Compligo by KPA](https://kpa.io/platform/compligo/)** ⚖️ | Enterprise compliance agent focused on training, audits, and high-risk industry tracking. | Custom Pricing | **No free tier.** |
-| **[HR Acuity](https://www.hracuity.com/)** 🩺 | Purpose-built platform for employee relations, investigation automation, and policy guidance. | Custom Pricing | **No free tier.** Demo available. |
-| **[SixFifty](https://www.sixfifty.com/)** ⚖️ | AI-powered policy generator for employee handbooks with multi-state legal intelligence. | Starts ~$250 /mo | **No free tier.** |
+| Product | Company Size / Valuation | Description | Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Rippling](https://www.rippling.com/)** 🌊 | **$16.8 Billion** | Unified HR/IT platform with agents for policy enforcement & multi-state labor law alerts. | Starts at $8 /user/mo | **No free tier.** Demo available. |
+| **[SafetyCulture](https://safetyculture.com/)** 👷 | **$2.5 Billion** | Comprehensive HR compliance agent for audits, inspections, training, and real-time reporting. | $24–$29 /user/mo | **Free Plan:** Up to 10 members, 5 templates. |
+| **[Zenefits](https://www.zenefits.com/)** 🍃 | **$2.18 Billion** | All-in-one HRIS with strong AI compliance tools for payroll, benefits, and policy audits. | Starts at $8 /user/mo | **No free tier.** |
+| **[Compligo by KPA](https://kpa.io/platform/compligo/)** ⚖️ | **$147M+ (Revenue)** | Enterprise compliance agent focused on training, audits, and high-risk industry tracking. | Custom Pricing | **No free tier.** |
+| **[HR Acuity](https://www.hracuity.com/)** 🩺 | **$150M+ (Est.)** | Purpose-built platform for employee relations, investigation automation, and policy guidance. | Custom Pricing | **No free tier.** Demo available. |
+| **[SixFifty](https://www.sixfifty.com/)** ⚖️ | **$70M+ (Acq.)** | AI-powered policy generator for employee handbooks with multi-state legal intelligence. | Starts ~$250 /mo | **No free tier.** |
+| **[Auditocity](https://auditocity.com/)** 🔍 | **$10M+ (Est.)** | AI-powered HR compliance auditing platform with 14,000+ questions. Automated findings & risk reports. | Custom Annual | **Free Trial available** for self-audits. |
 
 **Other notable mentions**: Paylocity (AI compliance dashboards), Gusto (compliance automation), BambooHR (compliance add-ons), and Microsoft Copilot for HR compliance workflows.
 
