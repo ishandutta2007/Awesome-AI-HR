@@ -56,9 +56,6 @@ Tools listed here emphasize **agentic capabilities** (multi-step reasoning, docu
 
 ## 💻 Open-Source GitHub Projects
 
-- **[agent-for-hr-service-solution-accelerator](https://github.com/microsoft/agent-for-hr-service-solution-accelerator)** [![Stars](https://img.shields.io/github/stars/microsoft/agent-for-hr-service-solution-accelerator?style=social)](https://github.com/microsoft/agent-for-hr-service-solution-accelerator/stargazers) 🚀  
-  Microsoft’s official open-source HR service AI agent. Summarizes policies, generates compliant HR documents, and updates records.
-
 - **[agentic-employment](https://github.com/ruvnet/agentic-employment)** [![Stars](https://img.shields.io/github/stars/ruvnet/agentic-employment?style=social)](https://github.com/ruvnet/agentic-employment/stargazers) 💼  
   Full autonomous agentic employment/HR platform. Includes compliance agents for policy enforcement, audit reporting, and onboarding.
 
@@ -67,6 +64,9 @@ Tools listed here emphasize **agentic capabilities** (multi-step reasoning, docu
 
 - **[AI-HR-Agent](https://github.com/eVolpe-AI/AI-HR-Agent)** [![Stars](https://img.shields.io/github/stars/eVolpe-AI/AI-HR-Agent?style=social)](https://github.com/eVolpe-AI/AI-HR-Agent/stargazers) 🤖  
   First free/open-source AI chatbot agent for HCM/HRMS systems (e.g., MintHCM). Handles policy questions, data changes, and compliance queries.
+
+- **[agent-for-hr-service-solution-accelerator](https://github.com/microsoft/agent-for-hr-service-solution-accelerator)** [![Stars](https://img.shields.io/github/stars/microsoft/agent-for-hr-service-solution-accelerator?style=social)](https://github.com/microsoft/agent-for-hr-service-solution-accelerator/stargazers) 🚀  
+  Microsoft’s official open-source HR service AI agent. Summarizes policies, generates compliant HR documents, and updates records.
 
 - **[Veritas-AI-for-Compliance](https://github.com/llSourcell/Veritas-AI-for-Compliance)** [![Stars](https://img.shields.io/github/stars/llSourcell/Veritas-AI-for-Compliance?style=social)](https://github.com/llSourcell/Veritas-AI-for-Compliance/stargazers) 🔍  
   On-prem “glass-box” RAG compliance copilot. Answers GDPR/AI-Act/HR policy questions over internal documents with line-level citations.
