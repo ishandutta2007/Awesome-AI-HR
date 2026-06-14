@@ -56,40 +56,40 @@ Tools listed here emphasize **agentic capabilities** (multi-step reasoning, docu
 
 ## 💻 Open-Source GitHub Projects
 
-### Dedicated AI HR Compliance Agent Projects
-
-- **[AI-HR-Agent](https://github.com/eVolpe-AI/AI-HR-Agent)** 🤖  
-  First free/open-source AI chatbot agent for HCM/HRMS systems (e.g., MintHCM). Handles policy questions, data changes, and compliance queries.
-
-- **[agent-for-hr-service-solution-accelerator](https://github.com/microsoft/agent-for-hr-service-solution-accelerator)** 🚀  
+- **[agent-for-hr-service-solution-accelerator](https://github.com/microsoft/agent-for-hr-service-solution-accelerator)** [![Stars](https://img.shields.io/github/stars/microsoft/agent-for-hr-service-solution-accelerator?style=social)](https://github.com/microsoft/agent-for-hr-service-solution-accelerator/stargazers) 🚀  
   Microsoft’s official open-source HR service AI agent. Summarizes policies, generates compliant HR documents, and updates records.
 
-- **[mcp-agent](https://github.com/sanjanb/mcp-agent)** 📄  
-  Production-ready minimalist HR policy assistant using RAG + Model Context Protocol. Answers employee questions from your own policy documents with citations.
-
-- **[Veritas-AI-for-Compliance](https://github.com/llSourcell/Veritas-AI-for-Compliance)** 🔍  
-  On-prem “glass-box” RAG compliance copilot. Answers GDPR/AI-Act/HR policy questions over internal documents with line-level citations and PII redaction.
-
-- **[agentic-employment](https://github.com/ruvnet/agentic-employment)** 💼  
+- **[agentic-employment](https://github.com/ruvnet/agentic-employment)** [![Stars](https://img.shields.io/github/stars/ruvnet/agentic-employment?style=social)](https://github.com/ruvnet/agentic-employment/stargazers) 💼  
   Full autonomous agentic employment/HR platform. Includes compliance agents for policy enforcement, audit reporting, and onboarding.
 
-- **[AI_Audit_Compliance](https://github.com/hpant5/AI_Audit_Compliance)** 📋  
-  AI system that automates collection, organization, and analysis of legal/compliance data for HR audits.
+- **[AI-Compliance-Auditor](https://github.com/awsdataarchitect/ai-compliance-auditor)** [![Stars](https://img.shields.io/github/stars/awsdataarchitect/ai-compliance-auditor?style=social)](https://github.com/awsdataarchitect/ai-compliance-auditor/stargazers) 🛡️  
+  Serverless AI compliance auditor with audit trails. Highly adaptable for HR policy reviews and automated compliance checks.
 
-- **[Autonomous-Data-Compliance-Officer-Multi-Agent-System](https://github.com/Muh76/Autonomous-Data-Compliance-Officer-Multi-Agent-System)** 🛡️  
+- **[AI-HR-Agent](https://github.com/eVolpe-AI/AI-HR-Agent)** [![Stars](https://img.shields.io/github/stars/eVolpe-AI/AI-HR-Agent?style=social)](https://github.com/eVolpe-AI/AI-HR-Agent/stargazers) 🤖  
+  First free/open-source AI chatbot agent for HCM/HRMS systems (e.g., MintHCM). Handles policy questions, data changes, and compliance queries.
+
+- **[Veritas-AI-for-Compliance](https://github.com/llSourcell/Veritas-AI-for-Compliance)** [![Stars](https://img.shields.io/github/stars/llSourcell/Veritas-AI-for-Compliance?style=social)](https://github.com/llSourcell/Veritas-AI-for-Compliance/stargazers) 🔍  
+  On-prem “glass-box” RAG compliance copilot. Answers GDPR/AI-Act/HR policy questions over internal documents with line-level citations.
+
+- **[Autonomous-Data-Compliance-Officer-Multi-Agent-System](https://github.com/Muh76/Autonomous-Data-Compliance-Officer-Multi-Agent-System)** [![Stars](https://img.shields.io/github/stars/Muh76/Autonomous-Data-Compliance-Officer-Multi-Agent-System?style=social)](https://github.com/Muh76/Autonomous-Data-Compliance-Officer-Multi-Agent-System/stargazers) 🛡️  
   Multi-agent system with specialized agents for risk scanning, policy matching, and HR/data compliance monitoring.
 
-- **[AI_Agents_Hackathon / hr-compliance-bot](https://github.com/nisk20/hr-compliance-bot)** 🤖  
+- **[mcp-agent](https://github.com/sanjanb/mcp-agent)** [![Stars](https://img.shields.io/github/stars/sanjanb/mcp-agent?style=social)](https://github.com/sanjanb/mcp-agent/stargazers) 📄  
+  Production-ready minimalist HR policy assistant using RAG + Model Context Protocol. Answers employee questions with citations.
+
+- **[AI_Audit_Compliance](https://github.com/hpant5/AI_Audit_Compliance)** [![Stars](https://img.shields.io/github/stars/hpant5/AI_Audit_Compliance?style=social)](https://github.com/hpant5/AI_Audit_Compliance/stargazers) 📋  
+  AI system that automates collection, organization, and analysis of legal/compliance data for HR audits.
+
+- **[AI_Agents_Hackathon / hr-compliance-bot](https://github.com/nisk20/hr-compliance-bot)** [![Stars](https://img.shields.io/github/stars/nisk20/hr-compliance-bot?style=social)](https://github.com/nisk20/hr-compliance-bot/stargazers) 🤖  
   Multi-agent HR compliance bot for labor laws, human rights, and occupational safety.
 
-- **[lola-hr-agent-showcase](https://github.com/nanangel70/lola-hr-agent-showcase)** 📄  
+- **[lola-hr-agent-showcase](https://github.com/nanangel70/lola-hr-agent-showcase)** [![Stars](https://img.shields.io/github/stars/nanangel70/lola-hr-agent-showcase?style=social)](https://github.com/nanangel70/lola-hr-agent-showcase/stargazers) 📄  
   AI agent for automated HR contract management, compliance review, and workflow simplification.
 
-- **[sable-ai-governance-framework](https://github.com/davidcockson-compliance/sable-ai-governance-framework)** 🏛️  
+- **[sable-ai-governance-framework](https://github.com/davidcockson-compliance/sable-ai-governance-framework)** [![Stars](https://img.shields.io/github/stars/davidcockson-compliance/sable-ai-governance-framework?style=social)](https://github.com/davidcockson-compliance/sable-ai-governance-framework/stargazers) 🏛️  
   Open-source AI governance framework tailored for UK HR/recruitment providers.
 
 ### Additional Strong Open-Source Options
-- **[AI-Compliance-Auditor](https://github.com/awsdataarchitect/ai-compliance-auditor)** — Serverless AI compliance auditor with audit trails.  
 - Community forks of MintHCM + AI agents for full open-source HCM compliance stacks.  
 - General LangGraph/CrewAI templates for custom HR compliance agents.
 
