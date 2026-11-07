@@ -54,6 +54,9 @@ Tools listed here emphasize **agentic capabilities** (multi-step reasoning, docu
 
 ---
 
+- **[hr-policy-qa-agent](https://github.com/Kortix-seo/hr-policy-qa-agent)** [![Stars](https://img.shields.io/github/stars/Kortix-seo/hr-policy-qa-agent?style=social)](https://github.com/Kortix-seo/hr-policy-qa-agent/stargazers) 🤖  
+  Open-source HR policy Q&A agent on Kortix, the open-source CompanyOS: reads the policy library, drafts a cited answer, and escalates anything ambiguous, legal or about compensation to a person. Setup guide: https://aiagentsforhrguide.com/hr-policy-qa-agent
+
 ## 💻 Open-Source GitHub Projects
 
 - **[agentic-employment](https://github.com/ruvnet/agentic-employment)** [![Stars](https://img.shields.io/github/stars/ruvnet/agentic-employment?style=social)](https://github.com/ruvnet/agentic-employment/stargazers) 💼  
